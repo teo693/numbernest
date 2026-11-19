@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teo693.github.io/numbernest/sitemap.xml
